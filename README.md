@@ -50,4 +50,4 @@ Detects active caches, runs HIT/MISS tests, checks response headers, inspects OP
 
 1. Download or clone this repository into your `wp-content/plugins` directory:
    ```bash
-   git clone https://github.com/yourusername/wp-cache-inspector.git wp-content/plugins/wp-cache-inspector
+   git clone https://github.com/ghouliaras/wp-cache-inspector.git wp-content/plugins/wp-cache-inspector
