@@ -94,5 +94,5 @@ GPL-2.0 — see [LICENSE](LICENSE).
 
 <p align="center">
   Built by <a href="https://github.com/ghouliaras"><b>George Chouliaras</b></a> · WordPress, WooCommerce &amp; Laravel developer ·
-  <a href="https://www.flowcreations.gr/contact/">Available for projects</a>
+  <a href="https://www.flowcreations.gr/en/contact/">Available for projects</a>
 </p>
